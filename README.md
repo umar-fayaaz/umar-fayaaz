@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Muhammad Umar Fayaaz  
 
-🚀 **DevOps Engineer | Cloud & Automation Enthusiast**  
+🚀 **DevOps Engineer | Cloud & Automation Enthusiast | Java Developer**  
 
-I am passionate about **DevOps, Cloud Computing, and Automation**, specializing in **CI/CD pipelines, Docker, Kubernetes, AWS, and Infrastructure as Code (IaC)**. I enjoy optimizing workflows, building scalable solutions, and enhancing deployment processes.
+I am passionate about **DevOps, Cloud Computing, Java Development, and Automation**, specializing in **CI/CD pipelines, Docker, Kubernetes, AWS, and Infrastructure as Code (IaC)**. I enjoy optimizing workflows, building scalable solutions, and enhancing deployment processes.  
 
 📌 **Currently working on:**  
-🔹 Enhancing my expertise in **Kubernetes, Terraform, and AWS cloud automation**  
+🔹 Enhancing my expertise in **Kubernetes, Terraform, AWS cloud automation, and Java development**  
 🔹 Automating deployment pipelines with **Jenkins and GitHub Actions**  
-🔹 Exploring **microservices architecture and cloud-native technologies**  
+🔹 Exploring **microservices architecture, cloud-native technologies, and Spring Boot**  
+
 
 ---
 
