@@ -52,15 +52,14 @@ I am passionate about **DevOps, Cloud Computing, and Automation**, specializing 
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadumarfayaaz&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumarfayaaz&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-fayaaz&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-fayaaz&layout=compact&theme=dark)  
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umar-fayaaz)  
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/muhammadumarfayaaz@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-fayaaz)  
 
 💡 Always learning, building, and sharing knowledge! 🚀
 
